@@ -58,7 +58,7 @@ void Mergesort(int*&a, int L, int R){
 	}
 
 }
-
+//comment
 int main(){
 	int *a, n;
 	sinh(a,n);
